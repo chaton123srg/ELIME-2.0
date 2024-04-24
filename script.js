@@ -1,0 +1,2 @@
+const des = "We want to make money, but, it is not our only goal. Indeed, we wanted to build a web tool that can calculate, reverse word and more... Here it is! (Double click for more)"
+const des1 = "Make sure to check the cats photos if you love cats! And check the pi calculator too if you want! Finally, make sure to have fun today, and tomorrow... and... after tomorrow!"

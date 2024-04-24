@@ -1,0 +1,112 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+/*naviguation bar */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  border-style: inset;
+  border-width: 5px;
+  border-color: #e5d7d7;
+}
+
+li {
+  float: left;
+}
+
+#dumb{
+  float: right;
+}
+
+#geegee{
+  float: right;
+}
+
+li a {
+  display: block;
+  color: #e5d7d7;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+  color:red;
+}
+
+
+/*end of it*/
+
+/*home*/
+
+#titlehome {
+  text-align:center;
+}
+
+#creatorname {
+  text-align:center;
+}
+
+#trans {
+  background-color: #333;
+  text-align:center;
+  color:#e5d7d7;
+  border-style: inset;
+  border-width: 5px;
+  border-color: #e5d7d7;
+  margin-bottom: 30px;
+}
+
+#sep {
+  text-align: center;
+}
+
+#desbutt {
+  display: block;
+  margin: auto;
+  background-color: #333;
+  height: 70px;
+  width: 15%;
+  cursor: pointer;
+  color: #e5d7d7;
+  border-style: inset;
+  border-color: #e5d7d7;
+  text-align: center;
+  border-width: 5px;
+}
+
+#des {
+  text-align: center;
+}
+
+#des1 {
+  text-align:center;
+}
+
+/* eeeend of home */
+/* cats */ 
+
+#titlecats {
+  text-align: center;
+}
+
+#spe {
+  height: 50%;
+  width: 12%;
+}
+
+/* eeeeeeeend of it dumbass */ 
+/* Calculatrice*/ 
+
+#calc {
+  display: block;
+  margin-left: 40%;
+  margin-top: 10%;
+}
